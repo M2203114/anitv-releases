@@ -1,1 +1,11 @@
-{}
+{
+  "release": {
+    "versionCode": 2,
+    "versionName": "0.2.0",
+    "minVersionCode": 0,
+    "notes": "Первый релиз: главная с оценками Shikimori и AnimeLib, каталог с фильтрами, вкладка Shikimori, карточка тайтла, плеер (AnimeLib и Kodik), вход и синхронизация досмотра, передача входа на TV, автообновление.",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.2.0/AniTV-0.2.0-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.2.0/AniTV-0.2.0-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.2.0/AniTV-0.2.0-mac.zip"
+  }
+}
