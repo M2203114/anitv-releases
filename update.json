@@ -1,11 +1,11 @@
 {
   "release": {
-    "versionCode": 2,
-    "versionName": "0.2.0",
+    "versionCode": 3,
+    "versionName": "0.3.0",
     "minVersionCode": 0,
-    "notes": "Первый релиз: главная с оценками Shikimori и AnimeLib, каталог с фильтрами, вкладка Shikimori, карточка тайтла, плеер (AnimeLib и Kodik), вход и синхронизация досмотра, передача входа на TV, автообновление.",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.2.0/AniTV-0.2.0-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.2.0/AniTV-0.2.0-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.2.0/AniTV-0.2.0-mac.zip"
+    "notes": "AniLibria 1080p и единый список озвучек, пропуск опенинга, субтитры, меню в плеере (озвучка, качество, субтитры, скорость), манга (Senkuro, MangaLib, Hitomi 18+) с читалкой и загрузками, загрузка серий на iPhone/Mac, синхронизация места в серии между устройствами, Продолжить из Shikimori, меню списков по удержанию, Не интересно и настройка главной, переключатель 18+, новый вход на TV через телефон, иконка, исправления по аудиту.",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.0/AniTV-0.3.0-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.0/AniTV-0.3.0-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.0/AniTV-0.3.0-mac.zip"
   }
 }
