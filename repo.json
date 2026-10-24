@@ -2,6 +2,7 @@
   "name": "AniTV",
   "identifier": "app.anitv.source",
   "subtitle": "Релизы AniTV для iPhone",
+  "sourceURL": "https://raw.githubusercontent.com/M2203114/anitv-releases/main/repo.json",
   "website": "https://github.com/M2203114/anitv-releases",
   "iconURL": "https://raw.githubusercontent.com/M2203114/anitv-releases/main/icon.png",
   "tintColor": "#FF6F2E",
@@ -18,7 +19,7 @@
       "versions": [
         {
           "version": "0.3.1",
-          "date": "2026-10-24T16:55:25Z",
+          "date": "2026-10-24",
           "localizedDescription": "Фильтры манги (жанры, тип, статус, годы, оценка), верхняя карточка на главной продолжает последний просмотренный тайтл, смена статуса сразу убирает тайтл из Продолжить, постеры новых тайтлов в Shikimori, плеер iPhone на весь экран в горизонтали, кнопка Запланировать на странице тайтла, переключатель скрытия китайской анимации в подборках.",
           "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.1/AniTV-0.3.1-unsigned.ipa",
           "size": 5728222,
@@ -26,7 +27,7 @@
         },
         {
           "version": "0.3.0",
-          "date": "2026-10-23T23:16:47Z",
+          "date": "2026-10-23",
           "localizedDescription": "AniLibria 1080p и единый список озвучек, пропуск опенинга, субтитры, меню в плеере (озвучка, качество, субтитры, скорость), манга (Senkuro, MangaLib, Hitomi 18+) с читалкой и загрузками, загрузка серий на iPhone/Mac, синхронизация места в серии между устройствами, Продолжить из Shikimori, меню списков по удержанию, Не интересно и настройка главной, переключатель 18+, новый вход на TV через телефон, иконка, исправления по аудиту.",
           "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.0/AniTV-0.3.0-unsigned.ipa",
           "size": 5427204,
@@ -34,7 +35,7 @@
         },
         {
           "version": "0.2.0",
-          "date": "2026-10-23T21:11:03Z",
+          "date": "2026-10-23",
           "localizedDescription": "Первый релиз: главная с оценками Shikimori и AnimeLib, каталог с фильтрами, вкладка Shikimori, карточка тайтла, плеер (AnimeLib и Kodik), вход и синхронизация досмотра, передача входа на TV, автообновление.",
           "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.2.0/AniTV-0.2.0-unsigned.ipa",
           "size": 3014551,
@@ -42,15 +43,11 @@
         }
       ],
       "version": "0.3.1",
-      "versionDate": "2026-10-24T16:55:25Z",
+      "versionDate": "2026-10-24",
       "versionDescription": "Фильтры манги (жанры, тип, статус, годы, оценка), верхняя карточка на главной продолжает последний просмотренный тайтл, смена статуса сразу убирает тайтл из Продолжить, постеры новых тайтлов в Shikimori, плеер iPhone на весь экран в горизонтали, кнопка Запланировать на странице тайтла, переключатель скрытия китайской анимации в подборках.",
       "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.1/AniTV-0.3.1-unsigned.ipa",
       "size": 5728222,
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
+      "screenshotURLs": []
     }
-  ],
-  "news": []
+  ]
 }
