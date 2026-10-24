@@ -1,11 +1,11 @@
 {
   "release": {
-    "versionCode": 3,
-    "versionName": "0.3.0",
+    "versionCode": 4,
+    "versionName": "0.3.1",
     "minVersionCode": 0,
-    "notes": "AniLibria 1080p и единый список озвучек, пропуск опенинга, субтитры, меню в плеере (озвучка, качество, субтитры, скорость), манга (Senkuro, MangaLib, Hitomi 18+) с читалкой и загрузками, загрузка серий на iPhone/Mac, синхронизация места в серии между устройствами, Продолжить из Shikimori, меню списков по удержанию, Не интересно и настройка главной, переключатель 18+, новый вход на TV через телефон, иконка, исправления по аудиту.",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.0/AniTV-0.3.0-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.0/AniTV-0.3.0-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.0/AniTV-0.3.0-mac.zip"
+    "notes": "Фильтры манги (жанры, тип, статус, годы, оценка), верхняя карточка на главной продолжает последний просмотренный тайтл, смена статуса сразу убирает тайтл из Продолжить, постеры новых тайтлов в Shikimori, плеер iPhone на весь экран в горизонтали, кнопка Запланировать на странице тайтла, переключатель скрытия китайской анимации в подборках.",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.1/AniTV-0.3.1-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.1/AniTV-0.3.1-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.1/AniTV-0.3.1-mac.zip"
   }
 }
