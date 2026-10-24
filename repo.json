@@ -2,9 +2,9 @@
   "name": "AniTV",
   "identifier": "app.anitv.source",
   "subtitle": "Релизы AniTV для iPhone",
-  "sourceURL": "https://raw.githubusercontent.com/M2203114/anitv-releases/main/repo.json",
+  "sourceURL": "https://m2203114.github.io/anitv-releases/repo.json",
   "website": "https://github.com/M2203114/anitv-releases",
-  "iconURL": "https://raw.githubusercontent.com/M2203114/anitv-releases/main/icon.png",
+  "iconURL": "https://m2203114.github.io/anitv-releases/icon.png",
   "tintColor": "#FF6F2E",
   "apps": [
     {
@@ -13,7 +13,7 @@
       "developerName": "Egor Popov",
       "subtitle": "Аниме и манга: AnimeLib, Shikimori",
       "localizedDescription": "Аниме и манга с синхронизацией прогресса AnimeLib и Shikimori.",
-      "iconURL": "https://raw.githubusercontent.com/M2203114/anitv-releases/main/icon.png",
+      "iconURL": "https://m2203114.github.io/anitv-releases/icon.png",
       "tintColor": "#FF6F2E",
       "category": "entertainment",
       "versions": [
