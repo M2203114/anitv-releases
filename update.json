@@ -1,11 +1,11 @@
 {
   "release": {
-    "versionCode": 4,
-    "versionName": "0.3.1",
+    "versionCode": 5,
+    "versionName": "0.4.0",
     "minVersionCode": 0,
-    "notes": "Фильтры манги (жанры, тип, статус, годы, оценка), верхняя карточка на главной продолжает последний просмотренный тайтл, смена статуса сразу убирает тайтл из Продолжить, постеры новых тайтлов в Shikimori, плеер iPhone на весь экран в горизонтали, кнопка Запланировать на странице тайтла, переключатель скрытия китайской анимации в подборках.",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.1/AniTV-0.3.1-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.1/AniTV-0.3.1-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.3.1/AniTV-0.3.1-mac.zip"
+    "notes": "Голосовой поиск на TV: кнопка «Голосом» в каталоге и манге, кнопка поиска на пульте\nВход на TV через телефон: QR-код на главной, скан айфоном - и вы в AnimeLib и Shikimori\nПропуск опенинга и эндинга для всех источников, настройка «Пропускать автоматически»\nСвязанное: вся франшиза по дате выхода внизу страницы тайтла\nПохожее: рекомендации Shikimori под Связанным\niPhone: каталог не прыгает наверх после возврата с тайтла, исправлено зависание при свайпе назад\nTV: «Назад» закрывает меню с первого нажатия, ряды выровнены",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.4.0/AniTV-0.4.0-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.4.0/AniTV-0.4.0-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.4.0/AniTV-0.4.0-mac.zip"
   }
 }
