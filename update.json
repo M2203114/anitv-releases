@@ -1,11 +1,11 @@
 {
   "release": {
-    "versionCode": 7,
-    "versionName": "0.6.0",
+    "versionCode": 8,
+    "versionName": "0.7.0",
     "minVersionCode": 0,
-    "notes": "7 цветовых тем: Профиль → Оформление (Сумерки, Бирюза, Сакура, Графит, Шампань, Ультрамарин, Классика), по умолчанию Графит\nОценки со значками Shikimori и AnimeLib вместо надписей\nПропуск опенинга: отбрасываются ошибочные таймкоды, больше не путается опенинг с эндингом\nTV: фокус возвращается на пункт профиля после выхода из настроек",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.6.0/AniTV-0.6.0-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.6.0/AniTV-0.6.0-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.6.0/AniTV-0.6.0-mac.zip"
+    "notes": "Приложение теперь называется Peek: новое имя, иконка и логотип, который красится в цвет темы\nОбновление встаёт поверх, вход и история сохраняются",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.0/Peek-0.7.0-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.0/Peek-0.7.0-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.0/Peek-0.7.0-mac.zip"
   }
 }

@@ -5,7 +5,7 @@
   "sourceURL": "https://m2203114.github.io/anitv-releases/repo.json",
   "website": "https://github.com/M2203114/anitv-releases",
   "iconURL": "https://m2203114.github.io/anitv-releases/icon.png",
-  "tintColor": "#FF6F2E",
+  "tintColor": "#F2F2F4",
   "apps": [
     {
       "name": "Peek",
@@ -14,9 +14,17 @@
       "subtitle": "Аниме и манга: AnimeLib, Shikimori",
       "localizedDescription": "Аниме и манга с синхронизацией прогресса AnimeLib и Shikimori.",
       "iconURL": "https://m2203114.github.io/anitv-releases/icon.png",
-      "tintColor": "#FF6F2E",
+      "tintColor": "#F2F2F4",
       "category": "entertainment",
       "versions": [
+        {
+          "version": "0.7.0",
+          "date": "2026-10-25",
+          "localizedDescription": "Приложение теперь называется Peek: новое имя, иконка и логотип, который красится в цвет темы\nОбновление встаёт поверх, вход и история сохраняются",
+          "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.0/Peek-0.7.0-unsigned.ipa",
+          "size": 5591907,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.6.0",
           "date": "2026-10-25",
@@ -66,11 +74,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.6.0",
+      "version": "0.7.0",
       "versionDate": "2026-10-25",
-      "versionDescription": "7 цветовых тем: Профиль → Оформление (Сумерки, Бирюза, Сакура, Графит, Шампань, Ультрамарин, Классика), по умолчанию Графит\nОценки со значками Shikimori и AnimeLib вместо надписей\nПропуск опенинга: отбрасываются ошибочные таймкоды, больше не путается опенинг с эндингом\nTV: фокус возвращается на пункт профиля после выхода из настроек",
-      "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.6.0/AniTV-0.6.0-unsigned.ipa",
-      "size": 6302252,
+      "versionDescription": "Приложение теперь называется Peek: новое имя, иконка и логотип, который красится в цвет темы\nОбновление встаёт поверх, вход и история сохраняются",
+      "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.0/Peek-0.7.0-unsigned.ipa",
+      "size": 5591907,
       "screenshotURLs": []
     }
   ]
