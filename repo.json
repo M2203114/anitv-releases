@@ -1,14 +1,14 @@
 {
-  "name": "AniTV",
+  "name": "Peek",
   "identifier": "app.anitv.source",
-  "subtitle": "Релизы AniTV для iPhone",
+  "subtitle": "Релизы Peek для iPhone",
   "sourceURL": "https://m2203114.github.io/anitv-releases/repo.json",
   "website": "https://github.com/M2203114/anitv-releases",
   "iconURL": "https://m2203114.github.io/anitv-releases/icon.png",
   "tintColor": "#FF6F2E",
   "apps": [
     {
-      "name": "AniTV",
+      "name": "Peek",
       "bundleIdentifier": "app.anitv.apple",
       "developerName": "Egor Popov",
       "subtitle": "Аниме и манга: AnimeLib, Shikimori",

@@ -1,5 +1,5 @@
-# AniTV releases
+# Peek releases
 
-Сборки AniTV для Android TV, iOS и macOS. Скачать: раздел Releases.
+Сборки Peek (раньше AniTV) для Android TV, iOS и macOS. Скачать: раздел Releases.
 
 `update.json` читают приложения для проверки обновлений.
