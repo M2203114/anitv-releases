@@ -1,11 +1,11 @@
 {
   "release": {
-    "versionCode": 9,
-    "versionName": "0.7.1",
+    "versionCode": 10,
+    "versionName": "0.7.2",
     "minVersionCode": 0,
-    "notes": "Плеер TV: смена озвучки снова работает, видео продолжается с того же места\nПодсказка «+1:30» видна 20 секунд и пропадает после использования или перемотки\nРовные иконки перемотки ±10 с",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.1/Peek-0.7.1-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.1/Peek-0.7.1-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.1/Peek-0.7.1-mac.zip"
+    "notes": "Следующая серия включается сама: в конце серии карточка \"Далее\" с отсчётом 10 секунд, \"Смотреть\" сразу, \"Отмена\" чтобы досмотреть титры. Экран \"Это последняя серия\" с переходом к тайтлу. Настройка \"Автовоспроизведение следующей серии\" в профиле. Исправлена остановка плеера в конце серии на некоторых потоках Kodik.",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.2/Peek-0.7.2-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.2/Peek-0.7.2-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.2/Peek-0.7.2-mac.zip"
   }
 }
