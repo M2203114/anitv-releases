@@ -1,11 +1,11 @@
 {
   "release": {
-    "versionCode": 6,
-    "versionName": "0.5.0",
+    "versionCode": 7,
+    "versionName": "0.6.0",
     "minVersionCode": 0,
-    "notes": "Новый дизайн TV: Главная с фоном под выбранный тайтл, новая подсветка фокуса, страница тайтла с превью серий\nСвой плеер на TV: полоса с метками опенинга, часы и время окончания, OK показывает панель, Меню - настройки\nВ плеере TV: режим кадра, частота экрана под видео, ночной звук, размер субтитров, запоминается скорость\nЗагрузка без скачков: страницы открываются сразу с каркасом, данные встают на свои места\nСинхронизация позиции между TV и телефоном: пауза, перемотка, выход - всё сохраняется\nПонятные сообщения об ошибках вместо технических\niPhone: обновлённые Главная, страница тайтла и профиль\nИсправлены: вкладки TV, кнопка Загрузки в манге, падение на Главной",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.5.0/AniTV-0.5.0-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.5.0/AniTV-0.5.0-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.5.0/AniTV-0.5.0-mac.zip"
+    "notes": "7 цветовых тем: Профиль → Оформление (Сумерки, Бирюза, Сакура, Графит, Шампань, Ультрамарин, Классика), по умолчанию Графит\nОценки со значками Shikimori и AnimeLib вместо надписей\nПропуск опенинга: отбрасываются ошибочные таймкоды, больше не путается опенинг с эндингом\nTV: фокус возвращается на пункт профиля после выхода из настроек",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.6.0/AniTV-0.6.0-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.6.0/AniTV-0.6.0-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.6.0/AniTV-0.6.0-mac.zip"
   }
 }
