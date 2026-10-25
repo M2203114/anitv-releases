@@ -18,6 +18,14 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.7.1",
+          "date": "2026-10-25",
+          "localizedDescription": "Плеер TV: смена озвучки снова работает, видео продолжается с того же места\nПодсказка «+1:30» видна 20 секунд и пропадает после использования или перемотки\nРовные иконки перемотки ±10 с",
+          "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.1/Peek-0.7.1-unsigned.ipa",
+          "size": 5594401,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.7.0",
           "date": "2026-10-25",
           "localizedDescription": "Приложение теперь называется Peek: новое имя, иконка и логотип, который красится в цвет темы\nОбновление встаёт поверх, вход и история сохраняются",
@@ -74,11 +82,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.7.0",
+      "version": "0.7.1",
       "versionDate": "2026-10-25",
-      "versionDescription": "Приложение теперь называется Peek: новое имя, иконка и логотип, который красится в цвет темы\nОбновление встаёт поверх, вход и история сохраняются",
-      "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.0/Peek-0.7.0-unsigned.ipa",
-      "size": 5591907,
+      "versionDescription": "Плеер TV: смена озвучки снова работает, видео продолжается с того же места\nПодсказка «+1:30» видна 20 секунд и пропадает после использования или перемотки\nРовные иконки перемотки ±10 с",
+      "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.1/Peek-0.7.1-unsigned.ipa",
+      "size": 5594401,
       "screenshotURLs": []
     }
   ]
