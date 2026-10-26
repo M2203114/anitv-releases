@@ -1,12 +1,11 @@
 {
   "release": {
-    "versionCode": 11,
-    "versionName": "0.7.3",
+    "versionCode": 12,
+    "versionName": "0.7.4",
     "minVersionCode": 0,
-    "notes": "Windows: обновление прямо из приложения. При запуске и раз в 6 часов Peek проверяет новую версию, плашка \"Обновить\" скачивает установщик, ставит его и перезапускает приложение. Кнопка \"Проверить обновления\" в профиле.",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-mac.zip",
-    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-windows.msi"
+    "notes": "Windows: интерфейс масштабируется под большие мониторы, шапка главной на всю ширину, постеры без зубцов. Выход из полноэкранного режима возвращает окно как было, F11 переключает полный экран. Повторный запуск открывает уже запущенное окно. Все платформы: после последней серии больше нет несуществующей \"серии 15\", досмотренный тайтл уходит из \"Продолжить\".",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.4/Peek-0.7.4-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.4/Peek-0.7.4-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.4/Peek-0.7.4-mac.zip"
   }
 }
