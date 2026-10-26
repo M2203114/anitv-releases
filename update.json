@@ -6,6 +6,7 @@
     "notes": "Следующая серия включается сама: в конце серии карточка \"Далее\" с отсчётом 10 секунд, \"Смотреть\" сразу, \"Отмена\" чтобы досмотреть титры. Экран \"Это последняя серия\" с переходом к тайтлу. Настройка \"Автовоспроизведение следующей серии\" в профиле. Исправлена остановка плеера в конце серии на некоторых потоках Kodik.",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.2/Peek-0.7.2-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.2/Peek-0.7.2-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.2/Peek-0.7.2-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.2/Peek-0.7.2-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.2/Peek-0.7.2-windows.msi"
   }
 }

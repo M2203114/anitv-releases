@@ -31,6 +31,7 @@
   <a class="btn main" id="ios" href="https://github.com/M2203114/anitv-releases/releases/latest">iPhone и iPad: IPA<small>Подписать и установить через KSign или бота</small></a>
   <a class="btn" id="android" href="https://github.com/M2203114/anitv-releases/releases/latest">Android TV: APK<small>Дальше обновляется само из приложения</small></a>
   <a class="btn" id="mac" href="https://github.com/M2203114/anitv-releases/releases/latest">Mac: ZIP</a>
+  <a class="btn" id="windows" href="https://github.com/M2203114/anitv-releases/releases/latest">Windows: MSI<small>Установщик, Windows 10 и новее</small></a>
   <a class="btn" href="https://github.com/M2203114/anitv-releases/releases">Все версии</a>
 
   <h2>Источник для KSign</h2>
@@ -43,7 +44,7 @@
   fetch("update.json", { cache: "no-store" }).then(r => r.json()).then(u => {
     const r = u.release;
     document.getElementById("ver").textContent = "Версия " + r.versionName;
-    for (const k of ["ios", "android", "mac"]) if (r[k]) document.getElementById(k).href = r[k];
+    for (const k of ["ios", "android", "mac", "windows"]) if (r[k]) document.getElementById(k).href = r[k];
     document.getElementById("notes").textContent = r.notes || "";
   }).catch(() => { document.getElementById("notes").textContent = "Список изменений на странице релизов."; });
 </script>
