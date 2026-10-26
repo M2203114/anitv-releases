@@ -6,6 +6,7 @@
     "notes": "Windows: обновление прямо из приложения. При запуске и раз в 6 часов Peek проверяет новую версию, плашка \"Обновить\" скачивает установщик, ставит его и перезапускает приложение. Кнопка \"Проверить обновления\" в профиле.",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.3/Peek-0.7.3-windows.msi"
   }
 }
