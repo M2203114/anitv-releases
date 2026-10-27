@@ -6,6 +6,7 @@
     "notes": "Следующая серия начинается с начала или с места, где вы остановились, а не с минуты прошлой серии. iPhone: ползунок на весь экран показывает настоящую позицию и не дёргается. Mac: полноэкранный режим работает (кнопка, двойной клик, F, Esc), кнопки прячутся через 3 секунды и по клику, пробел ставит на паузу. У онгоинга в конце последней вышедшей серии пишется \"Новых серий пока нет\".",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.8/Peek-0.7.8-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.8/Peek-0.7.8-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.8/Peek-0.7.8-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.8/Peek-0.7.8-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.8/Peek-0.7.8-windows.msi"
   }
 }
