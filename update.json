@@ -1,12 +1,11 @@
 {
   "release": {
-    "versionCode": 13,
-    "versionName": "0.7.5",
+    "versionCode": 14,
+    "versionName": "0.7.6",
     "minVersionCode": 0,
-    "notes": "Синхронизация прогресса, вход через телефон и общие таймкоды опенингов переехали на новый сервер. Старые версии продолжают работать через пересылку, но лучше обновиться.",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-mac.zip",
-    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-windows.msi"
+    "notes": "iPhone: загрузки можно хранить в отдельной папке в Файлах, тогда они остаются после удаления Peek. При первом скачивании Peek спросит, где хранить. После переустановки на пустом экране загрузок нажмите \"Восстановить загрузки из папки\" и выберите ту же папку.",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.6/Peek-0.7.6-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.6/Peek-0.7.6-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.6/Peek-0.7.6-mac.zip"
   }
 }
