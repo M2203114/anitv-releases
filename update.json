@@ -6,6 +6,7 @@
     "notes": "Синхронизация прогресса, вход через телефон и общие таймкоды опенингов переехали на новый сервер. Старые версии продолжают работать через пересылку, но лучше обновиться.",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.5/Peek-0.7.5-windows.msi"
   }
 }
