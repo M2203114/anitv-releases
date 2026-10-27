@@ -1,12 +1,11 @@
 {
   "release": {
-    "versionCode": 14,
-    "versionName": "0.7.6",
+    "versionCode": 16,
+    "versionName": "0.7.8",
     "minVersionCode": 0,
-    "notes": "iPhone: загрузки можно хранить в отдельной папке в Файлах, тогда они остаются после удаления Peek. При первом скачивании Peek спросит, где хранить. После переустановки на пустом экране загрузок нажмите \"Восстановить загрузки из папки\" и выберите ту же папку.",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.6/Peek-0.7.6-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.6/Peek-0.7.6-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.6/Peek-0.7.6-mac.zip",
-    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.6/Peek-0.7.6-windows.msi"
+    "notes": "Следующая серия начинается с начала или с места, где вы остановились, а не с минуты прошлой серии. iPhone: ползунок на весь экран показывает настоящую позицию и не дёргается. Mac: полноэкранный режим работает (кнопка, двойной клик, F, Esc), кнопки прячутся через 3 секунды и по клику, пробел ставит на паузу. У онгоинга в конце последней вышедшей серии пишется \"Новых серий пока нет\".",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.8/Peek-0.7.8-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.8/Peek-0.7.8-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.8/Peek-0.7.8-mac.zip"
   }
 }
