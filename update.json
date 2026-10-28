@@ -1,12 +1,11 @@
 {
   "release": {
-    "versionCode": 17,
-    "versionName": "0.7.9",
+    "versionCode": 18,
+    "versionName": "0.8.0",
     "minVersionCode": 0,
-    "notes": "Windows: плеер как на iPhone и Mac. Клик по видео прячет и показывает кнопки, они сами скрываются через 3 секунды, на весь экран прячется и курсор, сверху название и \"Следующая\". Ползунок не прыгает назад после перемотки, пробел и стрелки работают и после скрытия кнопок. Все платформы: почти досмотренная серия (последние 30 секунд или 90%) открывается с начала.",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-mac.zip",
-    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-windows.msi"
+    "notes": "Windows: вход в AnimeLib через VK без белого экрана, вход с телефона по QR в Профиле первым, плашка \"Вход истёк, войти снова\". Левый клик по видео ставит на паузу, двойной разворачивает на весь экран. Отдельный ползунок громкости (колёсико, стрелки, M), громкость запоминается. Mac: ползунок громкости. Все платформы: если AnimeLib или Shikimori отозвали вход, Peek сам продлевает его или просит войти снова.",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-mac.zip"
   }
 }
