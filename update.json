@@ -6,6 +6,7 @@
     "notes": "Windows: плеер как на iPhone и Mac. Клик по видео прячет и показывает кнопки, они сами скрываются через 3 секунды, на весь экран прячется и курсор, сверху название и \"Следующая\". Ползунок не прыгает назад после перемотки, пробел и стрелки работают и после скрытия кнопок. Все платформы: почти досмотренная серия (последние 30 секунд или 90%) открывается с начала.",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.7.9/Peek-0.7.9-windows.msi"
   }
 }
