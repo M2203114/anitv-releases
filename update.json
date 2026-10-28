@@ -6,6 +6,7 @@
     "notes": "Windows: вход в AnimeLib через VK без белого экрана, вход с телефона по QR в Профиле первым, плашка \"Вход истёк, войти снова\". Левый клик по видео ставит на паузу, двойной разворачивает на весь экран. Отдельный ползунок громкости (колёсико, стрелки, M), громкость запоминается. Mac: ползунок громкости. Все платформы: если AnimeLib или Shikimori отозвали вход, Peek сам продлевает его или просит войти снова.",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-windows.msi"
   }
 }
