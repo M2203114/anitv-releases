@@ -6,6 +6,7 @@
     "notes": "Windows: вход в AnimeLib и VK через окно на движке Edge вместо старого встроенного браузера, без белого экрана. Если окно не запустится, вход откроется в вашем браузере: после входа скопируйте адрес страницы, Peek подхватит его сам. Установщик стал легче.",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.2/Peek-0.8.2-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.2/Peek-0.8.2-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.2/Peek-0.8.2-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.2/Peek-0.8.2-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.2/Peek-0.8.2-windows.msi"
   }
 }
