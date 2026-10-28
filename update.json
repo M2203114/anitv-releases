@@ -1,12 +1,11 @@
 {
   "release": {
-    "versionCode": 18,
-    "versionName": "0.8.0",
+    "versionCode": 19,
+    "versionName": "0.8.1",
     "minVersionCode": 0,
-    "notes": "Windows: вход в AnimeLib через VK без белого экрана, вход с телефона по QR в Профиле первым, плашка \"Вход истёк, войти снова\". Левый клик по видео ставит на паузу, двойной разворачивает на весь экран. Отдельный ползунок громкости (колёсико, стрелки, M), громкость запоминается. Mac: ползунок громкости. Все платформы: если AnimeLib или Shikimori отозвали вход, Peek сам продлевает его или просит войти снова.",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-mac.zip",
-    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.0/Peek-0.8.0-windows.msi"
+    "notes": "На карточках главной видно ваш статус из списка Shikimori: \"Смотрю 5/12\", \"Просмотрено\", \"Запланировано\" и другие. В \"Свежих сериях\" только серии, вышедшие за две недели: старые тайтлы, к которым просто добавили озвучку, больше не попадают.",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.1/Peek-0.8.1-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.1/Peek-0.8.1-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.1/Peek-0.8.1-mac.zip"
   }
 }
