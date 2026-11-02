@@ -6,6 +6,7 @@
     "notes": "Озвучка синхронизируется между устройствами: продолжение на телефоне после TV открывается с той же озвучкой",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-windows.msi"
   }
 }
