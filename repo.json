@@ -18,6 +18,14 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.8.3",
+          "date": "2026-11-02",
+          "localizedDescription": "Озвучка синхронизируется между устройствами: продолжение на телефоне после TV открывается с той же озвучкой",
+          "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-unsigned.ipa",
+          "size": 5826968,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.8.2",
           "date": "2026-10-28",
           "localizedDescription": "Windows: вход в AnimeLib и VK через окно на движке Edge вместо старого встроенного браузера, без белого экрана. Если окно не запустится, вход откроется в вашем браузере: после входа скопируйте адрес страницы, Peek подхватит его сам. Установщик стал легче.",
@@ -162,11 +170,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.8.2",
-      "versionDate": "2026-10-28",
-      "versionDescription": "Windows: вход в AnimeLib и VK через окно на движке Edge вместо старого встроенного браузера, без белого экрана. Если окно не запустится, вход откроется в вашем браузере: после входа скопируйте адрес страницы, Peek подхватит его сам. Установщик стал легче.",
-      "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.2/Peek-0.8.2-unsigned.ipa",
-      "size": 5812155,
+      "version": "0.8.3",
+      "versionDate": "2026-11-02",
+      "versionDescription": "Озвучка синхронизируется между устройствами: продолжение на телефоне после TV открывается с той же озвучкой",
+      "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-unsigned.ipa",
+      "size": 5826968,
       "screenshotURLs": []
     }
   ]
