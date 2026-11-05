@@ -6,6 +6,7 @@
     "notes": "Мой список открывается сразу из кеша и не теряет тайтлы; Продолжить учитывает серии, отмеченные в Shikimori",
     "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-tv.apk",
     "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-mac.zip"
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-mac.zip",
+    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-windows.msi"
   }
 }
