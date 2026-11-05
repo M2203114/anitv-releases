@@ -1,12 +1,11 @@
 {
   "release": {
-    "versionCode": 21,
-    "versionName": "0.8.3",
+    "versionCode": 22,
+    "versionName": "0.8.4",
     "minVersionCode": 0,
-    "notes": "Озвучка синхронизируется между устройствами: продолжение на телефоне после TV открывается с той же озвучкой",
-    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-tv.apk",
-    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-unsigned.ipa",
-    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-mac.zip",
-    "windows": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-windows.msi"
+    "notes": "Мой список открывается сразу из кеша и не теряет тайтлы; Продолжить учитывает серии, отмеченные в Shikimori",
+    "android": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-tv.apk",
+    "ios": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-unsigned.ipa",
+    "mac": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-mac.zip"
   }
 }

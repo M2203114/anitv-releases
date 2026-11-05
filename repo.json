@@ -18,6 +18,14 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.8.4",
+          "date": "2026-11-05",
+          "localizedDescription": "Мой список открывается сразу из кеша и не теряет тайтлы; Продолжить учитывает серии, отмеченные в Shikimori",
+          "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-unsigned.ipa",
+          "size": 5869884,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.8.3",
           "date": "2026-11-02",
           "localizedDescription": "Озвучка синхронизируется между устройствами: продолжение на телефоне после TV открывается с той же озвучкой",
@@ -170,11 +178,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.8.3",
-      "versionDate": "2026-11-02",
-      "versionDescription": "Озвучка синхронизируется между устройствами: продолжение на телефоне после TV открывается с той же озвучкой",
-      "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.3/Peek-0.8.3-unsigned.ipa",
-      "size": 5826968,
+      "version": "0.8.4",
+      "versionDate": "2026-11-05",
+      "versionDescription": "Мой список открывается сразу из кеша и не теряет тайтлы; Продолжить учитывает серии, отмеченные в Shikimori",
+      "downloadURL": "https://github.com/M2203114/anitv-releases/releases/download/v0.8.4/Peek-0.8.4-unsigned.ipa",
+      "size": 5869884,
       "screenshotURLs": []
     }
   ]
